@@ -1,6 +1,8 @@
 ![License: GPL](https://img.shields.io/badge/license-GPLv2-blue)![Version Badge](https://img.shields.io/badge/version-0.0.1-lightgrey.svg)
 # Hardhat Template
 
+this project is a hardhat template, which supports typescript and includes a lot of useful tools, like code lint, doc generator, and other contract tools 
+
 ## Install
 
 `yarn`
@@ -30,3 +32,5 @@
 ---
 
 Once the rpc url is unavailable, check it [here](https://chainlist.org/)
+
+### 

@@ -3,8 +3,7 @@ cache/
 artifacts/
 exports/
 deploy/
-hbs/
-
+docs/
 coverage*
 scripts/
 .vscode/*
